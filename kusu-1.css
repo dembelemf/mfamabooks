@@ -1,0 +1,24 @@
+h1
+{
+    color: rgb(73, 21, 21);
+}
+h2
+{
+    color: rgb(73, 21, 21);
+}
+h3
+{
+    color: rgb(73, 21, 21);
+}
+body
+{
+    background-color: rgb(24, 24, 93);
+}
+#carte
+{
+    width: 800px;
+    margin:0 auto;
+    background-color: white;
+    text-align: center;
+    align-content: center;
+}
